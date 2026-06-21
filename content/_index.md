@@ -24,6 +24,4 @@ This website contains notes, articles, and projects related to:
 You can find my latest articles below.
 
 ## Contact
-
-- GitHub: https://github.com/justflag
 - Email: stepan@bargl.org
