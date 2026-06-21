@@ -18,9 +18,5 @@ This website contains notes, articles, and projects related to:
 - Self-hosting
 - Certifications
 
-## Recent Posts
-
-You can find my latest articles below.
-
 ## Contact
 - Email: stepan@bargl.org

@@ -1,6 +1,7 @@
 base_url = "https://blog.bargl.org"
-title = "Stepan's Blog"
+title = "Home"
 theme = "duckquill"
+description = "scratches of someone"
 
 compile_sass = true
 build_search_index = true
@@ -39,7 +40,8 @@ show_repo = true
 # i.e. "@/blog/_index.md".
 show_feed = true
 links = [
-    { url = "https://github.com/justflag/blog-site", name = "GitHub" },
+    { url = "@/blog/_index.md", name = "Blog" },
+    { url = "https://github.com/justflag/blog-site", name = "Repo" },
 ]
 
 [extra.footer]
