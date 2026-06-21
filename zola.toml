@@ -4,3 +4,23 @@ theme = "duckquill"
 
 compile_sass = true
 build_search_index = true
+
+taxonomies = [{ name = "tags", feed = true }]
+
+[markdown]
+smart_punctuation = true
+bottom_footnotes = true
+github_alerts = true
+
+[markdown.highlighting]
+light_theme = "solarized-light"
+dark_theme = "solarized-dark"
+
+[search]
+# index_format = "elasticlunr_json"
+index_format = "fuse_json"
+
+[extra]
+author = "Stepan Bargl"
+accent_color = "#ff7800"
+bio = "System Support Specialist"

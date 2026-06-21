@@ -25,6 +25,5 @@ You can find my latest articles below.
 
 ## Contact
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your@email.com
+- GitHub: https://github.com/justflag
+- Email: stepan@bargl.org
