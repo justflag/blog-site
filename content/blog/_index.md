@@ -6,4 +6,4 @@ page_template = "article.html"
 paginate_by = 2
 +++
 
-This is my blog, where I write about...whatever.
+This is my blog where I write about...whatever.
