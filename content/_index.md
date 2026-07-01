@@ -3,20 +3,32 @@ title = "Home"
 template = "index.html"
 +++
 
-# Hi, I'm Stepan
+{% alert(note=true) %}
+This site is actively being developed. Expect major changes at random times.
+{% end %}
 
-System Support Specialist with an interest in networking, Linux, automation, and self-hosted services.
+
+
+
+{% crt() %}
+```
+                 _       __     __                        
+                | |     / /__  / /________  ____ ___  ___ 
+                | | /| / / _ \/ / ___/ __ \/ __ `__ \/ _ \
+                | |/ |/ /  __/ / /__/ /_/ / / / / / /  __/
+                |__/|__/\___/_/\___/\____/_/ /_/ /_/\___/ 
+```
+{% end %}
+
+Hi I'm Stepan. System Support Specialist with an interest in Linux, and self-hosted services and languages.
 
 ## About
 
 This website contains notes, articles, and projects related to:
-
-- Networking
 - Linux
 - Proxmox
-- Automation
 - Self-hosting
-- Certifications
+- Languages
 
 ## Contact
-- Email: stepan@bargl.org
+- Email: <stepan@bargl.org>
