@@ -3,6 +3,7 @@ authors = ["John Ipsum"]
 title = "Ipsum"
 description = "Lorem ipsum dolor sit amet."
 date = 1970-01-02
+draft = true
 [taxonomies]
 tags = ["Lorem", "Ipsum"]
 [extra]
