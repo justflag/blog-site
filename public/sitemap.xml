@@ -7,6 +7,10 @@
         <loc>https://blog.bargl.org/blog/</loc>
     </url>
     <url>
+        <loc>https://blog.bargl.org/blog/building-my-site/</loc>
+        <lastmod>2026-07-26</lastmod>
+    </url>
+    <url>
         <loc>https://blog.bargl.org/blog/unit-one/</loc>
         <lastmod>2026-06-22</lastmod>
     </url>
@@ -18,5 +22,11 @@
     </url>
     <url>
         <loc>https://blog.bargl.org/tags/language/</loc>
+    </url>
+    <url>
+        <loc>https://blog.bargl.org/tags/self-hosting/</loc>
+    </url>
+    <url>
+        <loc>https://blog.bargl.org/tags/tech/</loc>
     </url>
 </urlset>
