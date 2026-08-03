@@ -20,7 +20,7 @@ This site is actively being developed. Expect major changes at random times.
 ```
 {% end %}
 
-Hi I'm Stepan. System Support Specialist with an interest in Linux, and self-hosted services and languages.
+Hi I'm Stepan. System Support Specialist with an interest in Linux, and self-hosted services, languages and other stuff.
 
 ## About
 
@@ -29,6 +29,7 @@ This website contains notes, articles, and projects related to:
 - Proxmox
 - Self-hosting
 - Languages
+- Music
 
 ## Contact
 - Email: <stepan@bargl.org>

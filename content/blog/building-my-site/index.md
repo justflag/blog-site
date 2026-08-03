@@ -1,5 +1,4 @@
 +++
-authors = ["Stepan Bargl"]
 title = "How I built my blog"
 description = "Building a blog site with Zola"
 date = 2026-07-26
